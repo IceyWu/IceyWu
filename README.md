@@ -6,11 +6,10 @@
 - :hearts: Passionate about open source software. 
 - :1st_place_medal: My projects are trusted by developers.
 - :sun_with_face: What i have achieved.
+- :WeChat: restsun
+- :Email: 3128006406@qq.com
  
-<a href="https://blog.csdn.net/qq_45981967?type=blog">
-    <img src="https://img.shields.io/badge/CSDN Page View-115K-E65A65.svg" alt="" title="suqii的csdn" />
-</a>
- 
+
 
  
 ---
