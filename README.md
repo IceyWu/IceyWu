@@ -3,9 +3,7 @@
  
 ### Hello World! I am <b><a target="_blank" href="javascript:;">IceyWu</a></b>.
  
-- :hearts: Passionate about open source software. 
-- :1st_place_medal: My projects are trusted by developers.
-- :sun_with_face: What i have achieved.
+- :sun_with_face: All that ends well is well
 - 🐱WeChat: restsun
 - 👻Email: 3128006406@qq.com
  
