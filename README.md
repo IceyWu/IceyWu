@@ -3,9 +3,7 @@
  
 ### Hello World! I am <b><a target="_blank" href="javascript:;">IceyWu</a></b>.
  
-- :sun_with_face: All that ends well is well
-- 🐱WeChat: restsun
-- 👻Email: 3128006406@qq.com
+- 🚀 All that ends well is well
  
 
 
