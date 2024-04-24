@@ -1,6 +1,7 @@
-### 👋 &nbsp;Hi there, I'm IceyWu
+<!-- ### 👋 &nbsp;Hi there, I'm IceyWu -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78ADB&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+IceyWu)](https://git.io/typing-svg)
 
-> All that ends well is well
+> You only live once 💗
 
 ####  Links
 
