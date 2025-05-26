@@ -168,4 +168,4 @@
         </tbody>
 </table>
 
-#### 🌈 [Some demos](https://iceywu.cn/demos)
+#### 🌈 [More demos](https://iceywu.cn/demos)
