@@ -13,5 +13,7 @@ jobs:
         with:
           feed_list: "https://iceywu.cn/rss.xml"
           max_post_count: 5
-          template: "- $title · $date"
-          date_format: "mmm dd, yyyy"
+          template: "- [$title]($url) · `$date`"
+          date_format: "yyyy-mm-dd"
+          committer_username: IceyWu
+          committer_email: 3128006406@qq.com
