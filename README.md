@@ -37,9 +37,7 @@
 
 #### <img height="16" src="https://api.iconify.design/octicon:rss-16.svg?color=%23F78ADB"> Blog
 
-<!-- BLOG-POST-LIST:START -->
-- 📝 [访问 iceywu.cn 查看最新文章](https://iceywu.cn)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 朝圣之路 · Apr 24, 2026- 关于拉萨 · Oct 09, 2025- uniapp小程序 LivePhoto&lpar;实况图片&rpar;实现详解 · Aug 25, 2025- 关于《La Porte étroite》 · May 17, 2025- 从需求到实现：我的 SVG 动画玩具库开发小记 · May 10, 2025<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <a href="https://iceywu.cn/rss.xml"><img src="https://img.shields.io/badge/RSS-Subscribe-F78ADB?style=flat-square&logo=rss&logoColor=white" /></a>
