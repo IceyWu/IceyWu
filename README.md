@@ -34,3 +34,13 @@
 <p align="center">
   <a href="https://iceywu.cn/demos"><img src="https://img.shields.io/badge/More_Demos-→-F78ADB?style=flat-square" /></a>
 </p>
+
+#### <img height="16" src="https://api.iconify.design/octicon:rss-16.svg?color=%23F78ADB"> Blog
+
+<!-- BLOG-POST-LIST:START -->
+- 📝 [访问 iceywu.cn 查看最新文章](https://iceywu.cn)
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <a href="https://iceywu.cn/rss.xml"><img src="https://img.shields.io/badge/RSS-Subscribe-F78ADB?style=flat-square&logo=rss&logoColor=white" /></a>
+</p>
