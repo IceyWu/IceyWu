@@ -1,171 +1,36 @@
-<!-- ### 👋 &nbsp;Hi there, I'm IceyWu -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78ADB&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+IceyWu)](https://git.io/typing-svg)
+<div align="center">
 
-> You only live once 💗
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F78ADB&center=true&vCenter=true&repeat=false&random=false&width=500&lines=%F0%9F%91%8B+Hi+there%2C+I'm+IceyWu)](https://git.io/typing-svg)
 
-#### Links
+> ✨ *You only live once* 💗
 
-- 🎉 [Personal Website](https://iceywu.cn)
-- 🦄 [What's this?!](http://lpalette.cn)
-- <img height="15" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:3128006406@qq.com)
-- Wechat: restsun
+</div>
 
-#### 🛠 Tech Stack
+#### <img height="16" src="https://api.iconify.design/octicon:link-16.svg?color=%23F78ADB"> Links
 
-<p>
-<code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-javascript.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-nestjs.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:nuxt-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-nodejs.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-python.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-mysql.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-mongodb-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-lua.svg"></code>&nbsp;
+<p align="center">
+  <a href="https://iceywu.cn"><img src="https://img.shields.io/badge/iceywu.cn-F78ADB?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="http://lpalette.cn"><img src="https://img.shields.io/badge/lpalette.cn-F78ADB?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:3128006406@qq.com"><img src="https://img.shields.io/badge/3128006406@qq.com-F78ADB?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/restsun-07C160?style=flat-square&logo=wechat&logoColor=white" />
+</p>
 
+#### <img height="16" src="https://api.iconify.design/octicon:tools-16.svg?color=%23F78ADB"> Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,nuxtjs,astro,nestjs,tauri,typescript,javascript,go,rust,swift,python,lua" />
 </p>
 
 #### <img height="16" src="https://api.iconify.design/logos-npm-icon.svg"> Packages
 
- <table>
-        <thead align=center>
-            <tr border: none;>
-                <td><b>🎁 Projects</b></td>
-                <td><b>⭐ Stars</b></td>
-                <td><b>📚 Forks</b></td>
-                <td><b>🛎 Issues</b></td>
-                <td><b>📬 Pull requests</b></td>
-                <td><b>💡 Last Commit</b></td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><a href=https://github.com/IceyWu/svg-animate-web><b>svg-animate-web</b></a></td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/IceyWu/svg-animate-web?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/IceyWu/svg-animate-web?style=flat-square&labelColor=343b41">
-                </td>
-                <td><a href=https://github.com/IceyWu/svg-animate-web/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/IceyWu/svg-animate-web?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/svg-animate-web/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/IceyWu/svg-animate-web?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/svg-animate-web/commits target=_blank><img alt="Last Commits"
-                            src="https://img.shields.io/github/last-commit/IceyWu/svg-animate-web?style=flat-square&labelColor=343b41"></a>
-                </td>
-            </tr>
-            <tr>
-                <td><a href=https://github.com/IceyWu/vue-hooks-pure><b>vue-hooks-pure</b></a></td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/IceyWu/vue-hooks-pure?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/IceyWu/vue-hooks-pure?style=flat-square&labelColor=343b41">
-                </td>
-                <td><a href=https://github.com/IceyWu/vue-hooks-pure/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/IceyWu/vue-hooks-pure?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/vue-hooks-pure/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/IceyWu/vue-hooks-pure?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/vue-hooks-pure/commits target=_blank><img alt="Last Commits"
-                            src="https://img.shields.io/github/last-commit/IceyWu/vue-hooks-pure?style=flat-square&labelColor=343b41"></a>
-                </td>
-            </tr>
-            <tr>
-                <td><a href=https://github.com/IceyWu/vue-directives-lib><b>vue-directives-lib</b></a></td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/IceyWu/vue-directives-lib?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/IceyWu/vue-directives-lib?style=flat-square&labelColor=343b41">
-                </td>
-                <td><a href=https://github.com/IceyWu/vue-directives-lib/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/IceyWu/vue-directives-lib?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/vue-directives-lib/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/IceyWu/vue-directives-lib?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/vue-directives-lib/commits target=_blank><img alt="Last Commits"
-                            src="https://img.shields.io/github/last-commit/IceyWu/vue-directives-lib?style=flat-square&labelColor=343b41"></a>
-                </td>
-            </tr>
-            <tr>
-                <td><a href=https://github.com/IceyWu/utils><b>@iceywu/utils</b></a></td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/IceyWu/utils?style=flat-square&labelColor=343b41"></td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/IceyWu/utils?style=flat-square&labelColor=343b41"></td>
-                <td><a href=https://github.com/IceyWu/utils/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/IceyWu/utils?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/utils/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/IceyWu/utils?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/utils/commits target=_blank><img alt="Last Commits"
-                            src="https://img.shields.io/github/last-commit/IceyWu/utils?style=flat-square&labelColor=343b41"></a>
-                </td>
-            </tr>
-            <tr>
-                <td><a href=https://github.com/IceyWu/elp-form><b>elp-form</b></a></td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/IceyWu/elp-form?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/IceyWu/elp-form?style=flat-square&labelColor=343b41">
-                </td>
-                <td><a href=https://github.com/IceyWu/elp-form/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/IceyWu/elp-form?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/elp-form/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/IceyWu/elp-form?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/elp-form/commits target=_blank><img alt="Last Commits"
-                            src="https://img.shields.io/github/last-commit/IceyWu/elp-form?style=flat-square&labelColor=343b41"></a>
-                </td>
-            </tr>
-            <tr>
-                <td><a href=https://github.com/IceyWu/axios-downloader><b>axios-downloader</b></a></td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/IceyWu/axios-downloader?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/IceyWu/axios-downloader?style=flat-square&labelColor=343b41">
-                </td>
-                <td><a href=https://github.com/IceyWu/axios-downloader/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/IceyWu/axios-downloader?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/axios-downloader/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/IceyWu/axios-downloader?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/axios-downloader/commits target=_blank><img alt="Last Commits"
-                            src="https://img.shields.io/github/last-commit/IceyWu/axios-downloader?style=flat-square&labelColor=343b41"></a>
-                </td>
-            </tr>
-            <tr>
-                <td><a href=https://github.com/IceyWu/uni-ui-plus><b>uni-ui-plus</b></a></td>
-                <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/IceyWu/uni-ui-plus?style=flat-square&labelColor=343b41">
-                </td>
-                <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/IceyWu/uni-ui-plus?style=flat-square&labelColor=343b41">
-                </td>
-                <td><a href=https://github.com/IceyWu/uni-ui-plus/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/IceyWu/uni-ui-plus?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/uni-ui-plus/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/IceyWu/uni-ui-plus?style=flat-square&labelColor=343b41"></a>
-                </td>
-                <td><a href=https://github.com/IceyWu/uni-ui-plus/commits target=_blank><img alt="Last Commits"
-                            src="https://img.shields.io/github/last-commit/IceyWu/uni-ui-plus?style=flat-square&labelColor=343b41"></a>
-                </td>
-            </tr>
-        </tbody>
-</table>
+| <img height="16" src="https://api.iconify.design/vscode-icons:folder-type-package.svg"> Project | <img height="16" src="https://api.iconify.design/octicon:star-16.svg?color=%23F78ADB"> Stars | <img height="16" src="https://api.iconify.design/octicon:repo-forked-16.svg?color=%23F78ADB"> Forks | <img height="16" src="https://api.iconify.design/octicon:issue-opened-16.svg?color=%23F78ADB"> Issues | <img height="16" src="https://api.iconify.design/octicon:git-pull-request-16.svg?color=%23F78ADB"> PRs | <img height="16" src="https://api.iconify.design/octicon:clock-16.svg?color=%23F78ADB"> Last Commit |
+|:-----------|:--------:|:--------:|:---------:|:------:|:--------------:|
+| [**live-photo**](https://github.com/IceyWu/live-photo) | ![Stars](https://img.shields.io/github/stars/IceyWu/live-photo?style=flat-square&color=F78ADB) | ![Forks](https://img.shields.io/github/forks/IceyWu/live-photo?style=flat-square&color=F78ADB) | ![Issues](https://img.shields.io/github/issues/IceyWu/live-photo?style=flat-square&color=F78ADB) | ![PRs](https://img.shields.io/github/issues-pr/IceyWu/live-photo?style=flat-square&color=F78ADB) | ![Last Commit](https://img.shields.io/github/last-commit/IceyWu/live-photo?style=flat-square&color=F78ADB) |
+| [**uni-ui-plus**](https://github.com/IceyWu/uni-ui-plus) | ![Stars](https://img.shields.io/github/stars/IceyWu/uni-ui-plus?style=flat-square&color=F78ADB) | ![Forks](https://img.shields.io/github/forks/IceyWu/uni-ui-plus?style=flat-square&color=F78ADB) | ![Issues](https://img.shields.io/github/issues/IceyWu/uni-ui-plus?style=flat-square&color=F78ADB) | ![PRs](https://img.shields.io/github/issues-pr/IceyWu/uni-ui-plus?style=flat-square&color=F78ADB) | ![Last Commit](https://img.shields.io/github/last-commit/IceyWu/uni-ui-plus?style=flat-square&color=F78ADB) |
+| [**@iceywu/utils**](https://github.com/IceyWu/utils) | ![Stars](https://img.shields.io/github/stars/IceyWu/utils?style=flat-square&color=F78ADB) | ![Forks](https://img.shields.io/github/forks/IceyWu/utils?style=flat-square&color=F78ADB) | ![Issues](https://img.shields.io/github/issues/IceyWu/utils?style=flat-square&color=F78ADB) | ![PRs](https://img.shields.io/github/issues-pr/IceyWu/utils?style=flat-square&color=F78ADB) | ![Last Commit](https://img.shields.io/github/last-commit/IceyWu/utils?style=flat-square&color=F78ADB) |
+| [**svg-animate-web**](https://github.com/IceyWu/svg-animate-web) | ![Stars](https://img.shields.io/github/stars/IceyWu/svg-animate-web?style=flat-square&color=F78ADB) | ![Forks](https://img.shields.io/github/forks/IceyWu/svg-animate-web?style=flat-square&color=F78ADB) | ![Issues](https://img.shields.io/github/issues/IceyWu/svg-animate-web?style=flat-square&color=F78ADB) | ![PRs](https://img.shields.io/github/issues-pr/IceyWu/svg-animate-web?style=flat-square&color=F78ADB) | ![Last Commit](https://img.shields.io/github/last-commit/IceyWu/svg-animate-web?style=flat-square&color=F78ADB) |
+| [**elp-form**](https://github.com/IceyWu/elp-form) | ![Stars](https://img.shields.io/github/stars/IceyWu/elp-form?style=flat-square&color=F78ADB) | ![Forks](https://img.shields.io/github/forks/IceyWu/elp-form?style=flat-square&color=F78ADB) | ![Issues](https://img.shields.io/github/issues/IceyWu/elp-form?style=flat-square&color=F78ADB) | ![PRs](https://img.shields.io/github/issues-pr/IceyWu/elp-form?style=flat-square&color=F78ADB) | ![Last Commit](https://img.shields.io/github/last-commit/IceyWu/elp-form?style=flat-square&color=F78ADB) |
 
-#### 🌈 [More demos](https://iceywu.cn/demos)
+<p align="center">
+  <a href="https://iceywu.cn/demos"><img src="https://img.shields.io/badge/More_Demos-→-F78ADB?style=flat-square" /></a>
+</p>
