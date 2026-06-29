@@ -39,10 +39,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [朝圣之路](https://iceywu.cn/essays/buen-camino/) · `2026-04-24`
+- [冈仁波齐](https://iceywu.cn/essays/kailash/) · `2025-10-09`
 - [关于拉萨](https://iceywu.cn/essays/lhasa/) · `2025-10-09`
 - [uniapp小程序 LivePhoto&lpar;实况图片&rpar;实现详解](https://iceywu.cn/posts/uni-ui-plus-livephoto/) · `2025-08-25`
-- [关于《La Porte étroite》](https://iceywu.cn/essays/la-porte-%C3%A9troite/) · `2025-05-17`
-- [从需求到实现：我的 SVG 动画玩具库开发小记](https://iceywu.cn/posts/svganimate/) · `2025-05-10`<!-- BLOG-POST-LIST:END -->
+- [关于《La Porte étroite》](https://iceywu.cn/essays/la-porte-%C3%A9troite/) · `2025-05-17`<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <a href="https://iceywu.cn/rss.xml"><img src="https://img.shields.io/badge/RSS-Subscribe-F78ADB?style=flat-square&logo=rss&logoColor=white" /></a>
