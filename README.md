@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=888888&center=true&vCenter=true&repeat=false&random=false&width=500&lines=%F0%9F%91%8B+Hi+there%2C+I'm+IceyWu)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=888888&center=true&vCenter=true&repeat=false&random=false&width=500&lines=%F0%9F%91%8B+Hi+there%2C+I'm+LevWu)](https://git.io/typing-svg)
 
 > ✨ *You only live once* 💗
 
@@ -9,7 +9,7 @@
 #### <img height="16" src="https://api.iconify.design/octicon:link-16.svg?color=%23888888"> Links
 
 <p align="center">
-  <a href="https://iceywu.cn"><img src="https://img.shields.io/badge/iceywu.cn-888888?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://levwu.me"><img src="https://img.shields.io/badge/levwu.me-888888?style=flat-square&logo=safari&logoColor=white" /></a>
   <a href="http://lpalette.cn"><img src="https://img.shields.io/badge/lpalette.cn-888888?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:3128006406@qq.com"><img src="https://img.shields.io/badge/3128006406@qq.com-888888?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/restsun-07C160?style=flat-square&logo=wechat&logoColor=white" />
@@ -32,18 +32,18 @@
 | [**elp-form**](https://github.com/IceyWu/elp-form) | ![Stars](https://img.shields.io/github/stars/IceyWu/elp-form?style=flat-square&color=888888) | ![Forks](https://img.shields.io/github/forks/IceyWu/elp-form?style=flat-square&color=888888) | ![Issues](https://img.shields.io/github/issues/IceyWu/elp-form?style=flat-square&color=888888) | ![PRs](https://img.shields.io/github/issues-pr/IceyWu/elp-form?style=flat-square&color=888888) | ![Last Commit](https://img.shields.io/github/last-commit/IceyWu/elp-form?style=flat-square&color=888888) |
 
 <p align="center">
-  <a href="https://iceywu.cn/demos"><img src="https://img.shields.io/badge/More_Demos-�?888888?style=flat-square" /></a>
+  <a href="https://levwu.me/demos"><img src="https://img.shields.io/badge/More_Demos-�?888888?style=flat-square" /></a>
 </p>
 
 #### <img height="16" src="https://api.iconify.design/octicon:rss-16.svg?color=%23888888"> Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [朝圣之路](https://iceywu.cn/essays/buen-camino/) · `2026-04-24`
-- [冈仁波齐](https://iceywu.cn/essays/kailash/) · `2025-10-09`
-- [关于拉萨](https://iceywu.cn/essays/lhasa/) · `2025-10-09`
-- [uniapp小程序 LivePhoto&lpar;实况图片&rpar;实现详解](https://iceywu.cn/posts/uni-ui-plus-livephoto/) · `2025-08-25`
-- [关于《La Porte étroite》](https://iceywu.cn/essays/la-porte-%C3%A9troite/) · `2025-05-17`<!-- BLOG-POST-LIST:END -->
+- [朝圣之路](https://levwu.me/essays/buen-camino/) · `2026-04-24`
+- [冈仁波齐](https://levwu.me/essays/kailash/) · `2025-10-09`
+- [关于拉萨](https://levwu.me/essays/lhasa/) · `2025-10-09`
+- [uniapp小程序 LivePhoto&lpar;实况图片&rpar;实现详解](https://levwu.me/posts/uni-ui-plus-livephoto/) · `2025-08-25`
+- [关于《La Porte étroite》](https://levwu.me/essays/la-porte-%C3%A9troite/) · `2025-05-17`<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-  <a href="https://iceywu.cn/rss.xml"><img src="https://img.shields.io/badge/RSS-Subscribe-888888?style=flat-square&logo=rss&logoColor=white" /></a>
+  <a href="https://levwu.me/rss.xml"><img src="https://img.shields.io/badge/RSS-Subscribe-888888?style=flat-square&logo=rss&logoColor=white" /></a>
 </p>

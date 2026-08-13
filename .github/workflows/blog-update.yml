@@ -11,9 +11,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://iceywu.cn/rss.xml"
+          feed_list: "https://levwu.me/rss.xml"
           max_post_count: 5
           template: "$newline- [$title]($url) · `$date`"
           date_format: "yyyy-mm-dd"
-          committer_username: IceyWu
+          committer_username: LevWu
           committer_email: 3128006406@qq.com
