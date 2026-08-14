@@ -38,11 +38,11 @@
 #### <img height="16" src="https://api.iconify.design/octicon:rss-16.svg?color=%23888888"> Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [我与格聂](https://levwu.me/essays/genie-mountain/) · `2026-08-05`
 - [朝圣之路](https://levwu.me/essays/buen-camino/) · `2026-04-24`
 - [冈仁波齐](https://levwu.me/essays/kailash/) · `2025-10-09`
 - [关于拉萨](https://levwu.me/essays/lhasa/) · `2025-10-09`
-- [uniapp小程序 LivePhoto&lpar;实况图片&rpar;实现详解](https://levwu.me/posts/uni-ui-plus-livephoto/) · `2025-08-25`
-- [关于《La Porte étroite》](https://levwu.me/essays/la-porte-%C3%A9troite/) · `2025-05-17`<!-- BLOG-POST-LIST:END -->
+- [uniapp小程序 LivePhoto&lpar;实况图片&rpar;实现详解](https://levwu.me/posts/uni-ui-plus-livephoto/) · `2025-08-25`<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <a href="https://levwu.me/rss.xml"><img src="https://img.shields.io/badge/RSS-Subscribe-888888?style=flat-square&logo=rss&logoColor=white" /></a>
