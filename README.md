@@ -38,11 +38,11 @@
 #### <img height="16" src="https://api.iconify.design/octicon:rss-16.svg?color=%23888888"> Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [车马慢](https://levwu.me/essays/dear-you/) · `2026-09-02`
 - [我用 TypeScript 做了一个 iCloud Calendar MCP](https://levwu.me/posts/icloud-calendar-mcp/) · `2026-08-18`
 - [我与格聂](https://levwu.me/essays/genie-mountain/) · `2026-08-05`
 - [朝圣之路](https://levwu.me/essays/buen-camino/) · `2026-04-24`
-- [冈仁波齐](https://levwu.me/essays/kailash/) · `2025-10-09`
-- [关于拉萨](https://levwu.me/essays/lhasa/) · `2025-10-09`<!-- BLOG-POST-LIST:END -->
+- [冈仁波齐](https://levwu.me/essays/kailash/) · `2025-10-09`<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <a href="https://levwu.me/rss.xml"><img src="https://img.shields.io/badge/RSS-Subscribe-888888?style=flat-square&logo=rss&logoColor=white" /></a>
